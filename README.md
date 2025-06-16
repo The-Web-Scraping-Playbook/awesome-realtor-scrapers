@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 Realtor OpsKit
+> Find out everything you need to know to reliably scrape Realtor with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/realtor)
+
+This kit provides the blueprint for Realtor scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-realtor-scrapers)
 - [Scrapers By Language](#realtor-scrapers-by-language)
@@ -36,45 +47,44 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-realtor-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [mls-real-estate-scraper-for-realtor.ca](https://github.com/harry-s-grewal/mls-real-estate-scraper-for-realtor.ca) ![img](https://github.com/harry-s-grewal.png?size=20) | python | ⭐ 65 | ✅ Yes | 2023-09-08 | ✅ |
-| [RealtorWebScraper](https://github.com/DalanHeredia/RealtorWebScraper) ![img](https://github.com/DalanHeredia.png?size=20) | python | ⭐ 5 | ✅ Yes | 2023-02-07 | ✅ |
-| [hemnet](https://github.com/hugolm84/hemnet) ![img](https://github.com/hugolm84.png?size=20) | python | ⭐ 5 | ✅ Yes | 2013-09-13 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [mls-real-estate-scraper-for-realtor.ca](https://github.com/harry-s-grewal/mls-real-estate-scraper-for-realtor.ca) ![img](https://github.com/harry-s-grewal.png?size=20) | python | ⭐ 65 | ❌ No | 2023-09-08 |
+| [RealtorWebScraper](https://github.com/DalanHeredia/RealtorWebScraper) ![img](https://github.com/DalanHeredia.png?size=20) | python | ⭐ 5 | ❌ No | 2023-02-07 |
+| [hemnet](https://github.com/hugolm84/hemnet) ![img](https://github.com/hugolm84.png?size=20) | python | ⭐ 5 | ❌ No | 2013-09-13 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
 ---
 
 ## 🧑‍💻 Realtor Scrapers By Language <a id="realtor-scrapers-by-language"></a>
-
-### Go
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [realtor-scraper](https://github.com/suffer-sami/realtor-scraper) | ⭐ 2 | 2024-12-12 | — | ✅ Yes |
-
-
-### Jupyter Notebook
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [Centris-realtor-web-scraper](https://github.com/UMostafa/Centris-realtor-web-scraper) | ⭐ 4 | 2018-12-09 | — | ✅ Yes |
-| [realtorca_scraper](https://github.com/dittorahmat/realtorca_scraper) | ⭐ 2 | 2021-11-18 | — | ✅ Yes |
+### Python
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [mls-real-estate-scraper-for-realtor.ca](https://github.com/harry-s-grewal/mls-real-estate-scraper-for-realtor.ca) | ⭐ 65 | 2023-09-08 | intermediate | ❌ No |
+| [RealtorWebScraper](https://github.com/DalanHeredia/RealtorWebScraper) | ⭐ 5 | 2023-02-07 | immediate | ❌ No |
+| [hemnet](https://github.com/hugolm84/hemnet) | ⭐ 5 | 2013-09-13 | immediate | ❌ No |
+| [car-scraper](https://github.com/datamade/car-scraper) | ⭐ 3 | 2023-04-28 | immediate | ❌ No |
+| [TitleFlex-Zillow-Realtor-scraper](https://github.com/zkhorozianbc/TitleFlex-Zillow-Realtor-scraper) | ⭐ 2 | 2021-04-05 | immediate | ❌ No |
 
 
 ### Node.js
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [mls-scraper](https://github.com/Mustack/mls-scraper) | ⭐ 3 | 2017-02-13 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [mls-scraper](https://github.com/Mustack/mls-scraper) | ⭐ 3 | 2017-02-13 | immediate | ❌ No |
 
 
-### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [mls-real-estate-scraper-for-realtor.ca](https://github.com/harry-s-grewal/mls-real-estate-scraper-for-realtor.ca) | ⭐ 65 | 2023-09-08 | — | ✅ Yes |
-| [RealtorWebScraper](https://github.com/DalanHeredia/RealtorWebScraper) | ⭐ 5 | 2023-02-07 | — | ✅ Yes |
-| [hemnet](https://github.com/hugolm84/hemnet) | ⭐ 5 | 2013-09-13 | — | ✅ Yes |
-| [car-scraper](https://github.com/datamade/car-scraper) | ⭐ 3 | 2023-04-28 | — | ✅ Yes |
-| [TitleFlex-Zillow-Realtor-scraper](https://github.com/zkhorozianbc/TitleFlex-Zillow-Realtor-scraper) | ⭐ 2 | 2021-04-05 | — | ✅ Yes |
+### Go
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [realtor-scraper](https://github.com/suffer-sami/realtor-scraper) | ⭐ 2 | 2024-12-12 | professional | ❌ No |
+
+
+### Jupyter Notebook
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [Centris-realtor-web-scraper](https://github.com/UMostafa/Centris-realtor-web-scraper) | ⭐ 4 | 2018-12-09 | immediate | ❌ No |
+| [realtorca_scraper](https://github.com/dittorahmat/realtorca_scraper) | ⭐ 2 | 2021-11-18 | professional | ❌ No |
 
 ---
 
@@ -105,7 +115,7 @@ Know a Realtor scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
