@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Realtor OpsKit
-> Find out everything you need to know to reliably scrape Realtor with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/realtor)
+> Find out everything you need to know to reliably scrape Realtor with our new tool: [Ops Kit](https://scrapeops.io/websites/realtor)
 
 This kit provides the blueprint for Realtor scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -103,7 +103,7 @@ This kit provides the blueprint for Realtor scraping operations:
 ---
 
 ## 🧠 Realtor Tutorials & How-Tos<a id="realtor-tutorials"></a>
-- 📘 [How to Scrape Realtor at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-realtor/)
+- 📘 [How to Scrape Realtor at Scale](https://scrapeops.io/websites/realtor/how-to-scrape-realtor)
 - 🔐 [Web Scraping Realtor Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
