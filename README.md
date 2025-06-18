@@ -23,10 +23,10 @@ Perfect for:
 
 ---
 
-## 🧠 Realtor OpsKit
-> Find out everything you need to know to reliably scrape Realtor with our new tool: [Ops Kit](https://scrapeops.io/websites/realtor)
+## 🧠 Realtor Website Scraping Analyzer
+> Find out everything you need to know to reliably scrape Realtor with our new tool: [Website Scraping Analyzer](https://scrapeops.io/websites/realtor)
 
-This kit provides the blueprint for Realtor scraping operations:
+Our Website Scraping Analyzer provides the blueprint for Realtor scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
 - **Data:** Data Types, Public APIs
 - **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
@@ -129,7 +129,6 @@ All contributions welcome! We'll vet and include approved scrapers in the next u
 
 ## 🏷 Tags
 Realtor scraper, web scraping, realtor API, python scraper, playwright, data scraping, anti-bot, github, open-source realtor crawler, ScrapeOps
-
 
 ---
 
